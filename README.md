@@ -2,7 +2,7 @@
 
 # Starting the development server
 
-After creating the application, you can start the development server by running the following command.
+you can start the development server by running the following command.
 
 ```
 node ace serve --watch
